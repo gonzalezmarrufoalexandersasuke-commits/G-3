@@ -254,7 +254,7 @@ local function mostrarNotificacionLogro()
     textoTitulo.TextSize = 14
     textoTitulo.Font = Enum.Font.GothamMedium
     textoTitulo.TextXAlignment = Enum.TextXAlignment.Left
-    textoTitulo.Text = "I want to be free again..."
+    textoTitulo.Text = "Agony"
     textoTitulo.Parent = frame
 
     local textoSub = Instance.new("TextLabel")
@@ -265,7 +265,7 @@ local function mostrarNotificacionLogro()
     textoSub.TextSize = 12
     textoSub.Font = Enum.Font.Gotham
     textoSub.TextXAlignment = Enum.TextXAlignment.Left
-    textoSub.Text = "Maybe it wasn't so fast after all, heh..."
+    textoSub.Text = "You can see the pain in his face Encounter G-3"
     textoSub.Parent = frame
 
     local textoLogro = Instance.new("TextLabel")
