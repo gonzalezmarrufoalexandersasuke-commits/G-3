@@ -199,7 +199,7 @@ local AUDIO_MOVIMIENTO_NUEVO = "rbxassetid://137036867337978" -- Único sonido d
 
 local ID_LOGRO = 79842910095980
 local AUDIO_LOGRO = "rbxassetid://70647822444952"
-local TEXTURA_LOGRO = "rbxassetid://139500492666943"
+local TEXTURA_LOGRO = "rbxassetid://79842910095980"
 
 local currentRooms = workspace:FindFirstChild("CurrentRooms")
 if not currentRooms then return end
